@@ -1,4 +1,4 @@
 ## Description
-This program finds the maximum sum of a continuous subarray in a given array of integers.
+This program implements Kadane's algorithm to find the subarray within a given array that has the maximum sum.
 ## Example
 <img src="example.png">
